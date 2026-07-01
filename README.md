@@ -23,8 +23,8 @@ DPCache accelerates diffusion models via prediction-based caching, using dynamic
 
 ## 📰 News
 
-- **[2025-03]** 🚀 Released with support for **FLUX** (text-to-image) and **Wan2.1** (image-to-video).
-- **[2025-02]** 🎉 DPCache has been accepted to **CVPR 2026**!
+- **[2026-03]** 🚀 Released with support for **FLUX** (text-to-image) and **Wan2.1** (image-to-video).
+- **[2026-02]** 🎉 DPCache has been accepted to **CVPR 2026**!
 
 
 ## 🤖 Supported Models
